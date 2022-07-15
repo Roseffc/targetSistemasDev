@@ -1,0 +1,64 @@
+.form__item {
+    margin-right: 20px;
+}
+
+.card {
+    text-align: center;
+}
+
+.contato__form {
+    width: 100%;
+    max-width: 700px;
+}
+
+.contato__table {
+    width: 100%;
+    max-width: 760px;
+}
+
+.contato__body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 90px;
+}
+
+.contato__section {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 696px;
+    width: 100%;
+}
+
+.contato__title2 {
+    margin: 19px 0;
+    text-align: center;
+    color: #424242;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.mat-card-title {
+    margin-bottom: 52px;
+}
+
+.mat-form-field {
+    width: 90%;
+}
+
+.mat-card {
+    padding: 53px 20px;
+    border-radius: 20px;
+}
+
+.button___salvar {
+    margin-right: 75px!important;
+    padding: 0 49px;
+}
+
+.button___limpar {
+    background-color: rgb(179, 3, 3, 0.6);
+}

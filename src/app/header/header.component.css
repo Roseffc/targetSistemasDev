@@ -1,0 +1,23 @@
+  .headerBody {
+    background-color: rgb(179, 3, 3);
+    width: 100%;
+    height: 100px;
+  }
+
+  .header__row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100px;
+  }
+
+  .img {
+    width: 100%;
+    max-width: 150px;
+    height: 100px;
+  }
+
+  .headerBody__text {
+    margin-right: 30px;
+    color: white;
+  }
